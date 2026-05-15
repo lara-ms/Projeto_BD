@@ -1,5 +1,10 @@
 # 🍕 Sistema de Banco de Dados - Pizzaria
 ---
+
+Lara Moreira Siécola - GEC - 2365
+
+Pedro Henrique Santos de Oliveira - GEC - 2170 
+
 > ## 📰 Introdução
 
 Este trabalho apresenta a modelagem de um banco de dados para um sistema de pizzaria. O objetivo é organizar e estruturar as informações relacionadas ao funcionamento do sistema, como clientes, pedidos, pizzas, ingredientes e pagamentos. 
